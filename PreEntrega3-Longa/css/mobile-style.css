@@ -1,0 +1,25 @@
+@media screen and (max-width:768px){
+    .header .navbar-brand{
+        padding-left: 1rem;
+    }
+    .section-1 .card{
+        width: 20rem;
+        height: 22rem;
+    }
+    .container-a{
+        width: 80%;
+        display: block;
+        margin: auto;
+        padding-top: 50px;
+    }
+}
+
+
+
+@media screen and (max-width:425px){
+    footer .row .col-md-2{
+        margin-top: 10vmin;
+    }
+}
+
+
